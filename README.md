@@ -5,7 +5,7 @@ The purpose of this project is to understand the basic working principles of GAN
 
 Model accuracy or state of the art performance is not the primary target of this implementation.
 
----
+
 
 ## Project Objective
 
@@ -18,7 +18,7 @@ The main objectives of this project are:
 
 This project is intended for educational and learning purposes.
 
----
+
 
 ## Dataset Assumptions
 
@@ -30,7 +30,7 @@ This project is intended for educational and learning purposes.
 - Audio signals are normalized to the range [-1, 1]
 - Fixed length segments of 16384 samples are used during training
 
----
+
 
 ## Model Architecture
 
@@ -49,7 +49,7 @@ This project is intended for educational and learning purposes.
 - Uses 1D convolution layers
 - Outputs a probability score indicating real or fake speech
 
----
+
 
 ## Training Strategy
 
@@ -61,7 +61,7 @@ This project is intended for educational and learning purposes.
 
 Total generator loss is the sum of adversarial loss and L1 reconstruction loss.
 
----
+
 
 ## Evaluation Metrics
 
@@ -73,7 +73,7 @@ The following metrics are used during testing if reference clean speech is avail
 
 Metrics are optional and training does not depend on them.
 
----
+
 
 ## How to USE
 
@@ -92,7 +92,6 @@ Now enjoy.
 - Not optimized for real world deployment
 - Not intended for high quality speech enhancement benchmarks
 
----
 
 ## Intended Use
 
@@ -102,7 +101,6 @@ This project is intended for:
 - Beginner level research exploration
 - Understanding adversarial training in audio tasks
 
----
 
 ## Requirements
 
@@ -113,7 +111,6 @@ This project is intended for:
 - Matplotlib
 - pesq and pystoi (optional for evaluation)
 
----
 
 ## License
 
