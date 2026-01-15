@@ -1,3 +1,3 @@
-This is a simple GAN architecture of Speech Enhanchment, only to understand GAN basic.
+This work presents a simple GAN-based speech enhancement architecture intended primarily for understanding the fundamental concepts of Generative Adversarial Networks (GANs). 
 
-Here model accurecy is not the main target
+Achieving high model accuracy is not the primary objective.
