@@ -1,3 +1,6 @@
+[GO TO KAGGLE NOTEBOOK](https://www.kaggle.com/code/abdullahalmamunzihan/simplegan)
+
+
 # Simple GAN for Speech Enhancement
 
 This repository contains a simple Generative Adversarial Network (GAN) implementation for speech enhancement.  
