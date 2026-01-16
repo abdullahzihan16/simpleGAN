@@ -80,7 +80,7 @@ Metrics are optional and training does not depend on them.
 
 ## How to USE
 
-1. 1. Noisy and clean audio files are provided in the training_samples folder. Each WAV file contains dual channel audio, where one channel represents noisy speech and the other represents clean speech.
+1. Noisy and clean audio files are provided in the *training_samples* folder. Each WAV file contains dual channel audio, where one channel represents noisy speech and the other represents clean speech.
 
 2. Update the training directory path according to your local file structure.
 
